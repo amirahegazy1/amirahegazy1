@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Amira Hegazy 👋
 
-<!--
-**amirahegazy1/amirahegazy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an entry-level **Flutter Developer** and a **Computer Science student**.
 
-Here are some ideas to get you started:
+## About Me
+- Learning Flutter and mobile app development
+- Interested in building simple and clean apps
+- Always improving my coding skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools & Skills
+- Flutter • Dart  
+- Git • GitHub  
+- VS Code • Android Studio
+
+## Contact
+- LinkedIn: (add your link)
+- Email: (add your email)
